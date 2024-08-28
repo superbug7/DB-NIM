@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 DB_FILE = "demo_database.db"
 
 # NVIDIA API configuration
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "nvapi-xxxx-"
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
 
 
