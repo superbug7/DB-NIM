@@ -4,7 +4,7 @@
 
 This project demonstrates a powerful partnerships between data providers and NVIDIA's NIM (NVIDIA Inference Microservices) for AI-driven business outcomes. By leveraging state-of-the-art language models via our partners, and leveraging the power of data via our data partners, we can accelerate the end-user's data journey. Example below showcases one example of providing high-quality, context-aware content to enhance existing data for further insights.
 
-### Data enrichment:
+### Data enrichment as an example:
 
 1. **Automated Content Generation**: Reduce manual effort in creating product descriptions, summaries, or any text-based content.
 2. **Scalability**: Process large volumes of data efficiently using NVIDIA's GPU-accelerated AI models.
