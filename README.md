@@ -1,10 +1,10 @@
-# AI-Powered Data Enrichment with NVIDIA NIM
+# Accelerated business journey with Data sources connected with NVIDIA NIM
 
 ## Business Value
 
-This project demonstrates a powerful integration between database systems and NVIDIA's NIM (NVIDIA Inference Microservices) for AI-driven data enrichment. By leveraging state-of-the-art language models, we can automatically generate high-quality, context-aware content to enhance existing data.
+This project demonstrates a powerful partnerships between data providers and NVIDIA's NIM (NVIDIA Inference Microservices) for AI-driven business outcomes. By leveraging state-of-the-art language models via our partners, and leveraging the power of data via our data partners, we can accelerate the end-user's data journey by providing high-quality, context-aware content to enhance existing data for further insights.
 
-### Key Benefits:
+### Data enrichment as an example:
 
 1. **Automated Content Generation**: Reduce manual effort in creating product descriptions, summaries, or any text-based content.
 2. **Scalability**: Process large volumes of data efficiently using NVIDIA's GPU-accelerated AI models.
